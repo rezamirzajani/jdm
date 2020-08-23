@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_up_sk" value="name:id;datatype:int,name:idk;datatype:int,name:noe_darkhast;datatype:int,name:tarikh_sabt;datatype:string,name:zaman_sabt;datatype:string,name:tarikh_darkhast;datatype:string,name:zaman_darkhast;datatype:string,name:modat;datatype:string,name:tozihat;datatype:blob,name:taeed;datatype:int,name:engheza;datatype:string" />
+	<infoitem key="UD_ip_check" value="name:ip;datatype:string" />
+	<infoitem key="UD_ip_check2" value="name:idk;datatype:int" />
+	<infoitem key="UD_ip_check1" value="name:idp;datatype:int" />
+</info>

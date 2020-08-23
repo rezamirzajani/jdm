@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:idk;datatype:int,name:jens;datatype:int,name:name;datatype:string,name:famili;datatype:int,name:codemeli;datatype:string,name:mac;datatype:string,name:bl;datatype:int,name:comment;datatype:blob" />
+	<infoitem key="UD_check_use" value="name:name;datatype:string,name:famili;datatype:string,name:codemeli;datatype:string" />
+	<infoitem key="UD_company" value="name:idp;datatype:int,name:ip;datatype:string,name:company;datatype:string" />
+</info>

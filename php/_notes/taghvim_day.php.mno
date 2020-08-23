@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_find_usr" value="name:idk;datatype:int,name:jens;datatype:int,name:name;datatype:string,name:famili;datatype:string,name:codemeli;datatype:string,name:pass;datatype:string,name:companyid;datatype:blob,name:mac;datatype:string,name:vasile_sabt;datatype:blob,name:semat;datatype:int,name:bl;datatype:int,name:comment;datatype:blob" />
+</info>

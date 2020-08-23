@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_check_use" value="name:idk;datatype:int" />
+	<infoitem key="UD_end_darkhast" value="name:id;datatype:int" />
+</info>

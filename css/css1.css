@@ -1,0 +1,167 @@
+/* CSS Document */
+a:link {
+	color: #CC00FF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #CC00FF;
+}
+a:hover {
+	text-decoration: none;
+	color: #CC00FF;
+}
+a:active {
+	text-decoration: none;
+	color: #CC00FF;
+}
+@font-face {
+   font-family:'yekan';
+   src: url('../font/BYekan.ttf') format('truetype');
+}
+.yekan1{
+	font-family: yekan;
+	font-size: 50px;
+	color: #FFFFFF;
+}
+.yekan2{
+	font-family: yekan;
+	font-size: 50px;
+	color: #CC00FF;
+
+}
+.yekan3{
+	font-family: yekan;
+	font-size: 30px;
+	color: #CC00FF;
+
+}
+.yekan4{
+	font-family: yekan;
+	font-size: 30px;
+	color: #FFFFFF;
+
+}
+.yekan5{
+	font-family: yekan;
+	font-size: 17px;
+	color: #FFFFFF;
+
+}
+.yekan6{
+	font-family: yekan;
+	font-size: 17px;
+	color: #000000;
+
+}
+.yekan7{
+	font-family: yekan;
+	font-size: 12px;
+}
+#Layer1 {
+	position:relative;
+	top:70px;
+	width:600px;
+	height:600px;
+	z-index:1;
+	margin:auto;
+	background-color: #CC99FF;
+	box-shadow: 0px 0px 10px #666666;
+	border-radius: 80px;
+}
+#Layer2 {
+	position:absolute;
+	left:40px;
+	top:46px;
+	width:517px;
+	height:505px;
+	z-index:2;
+	background-color: #CC00CC;
+	border-radius: 60px;
+}
+#Layer3 {
+	position:absolute;
+	left:333px;
+	top:45px;
+	width:230px;
+	height:230px;
+	z-index:2;
+	background-color: #CC33CC;
+	border-radius: 10px;
+}
+#Layer4 {
+	position:absolute;
+	left:38px;
+	top:328px;
+	width:230px;
+	height:230px;
+	z-index:2;
+	background-color: #CC33FF;
+	border-radius: 10px;
+}
+#Layer5 {
+	position:absolute;
+	left:329px;
+	top:328px;
+	width:230px;
+	height:230px;
+	z-index:2;
+	background-color: #CC3399;
+	border-radius: 10px;
+}
+.style1 {color: #FFFFFF}
+#Layer6 {
+	position:absolute;
+	left:40px;
+	top:46px;
+	width:517px;
+	height:505px;
+	z-index:2;
+	background-color: #FFFF00;
+	border-radius: 60px;
+	visibility:hidden;
+}
+#Layer7 {
+	position:absolute;
+	left:40px;
+	top:46px;
+	width:517px;
+	height:505px;
+	z-index:2;
+	background-color: #00FF00;
+	border-radius: 60px;
+	visibility:hidden;
+}
+input{
+width:100px;
+height:50px;
+	font-family: yekan;
+	font-size: 20px;
+	color: #CC00FF;
+}
+input[type="text"] {
+width:250px;
+height:50px;
+	font-family: yekan;
+	font-size: 20px;
+	color: #CC00FF;
+}
+input[type="password"] {
+width:250px;
+height:50px;
+	font-family: yekan;
+	font-size: 20px;
+	color: #CC00FF;
+}
+select
+{
+	font-family: yekan;
+	font-size: 20px;
+	color: #CC00FF;
+}
+.back {
+position:fixed;
+left:5px;
+top:5px;
+
+}

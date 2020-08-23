@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_saat" value="name:idt;datatype:int,name:idk;datatype:int,name:tarikh;datatype:string,name:saat;datatype:string,name:noe;datatype:int,name:noe_taradod;datatype:int" />
+	<infoitem key="UD_select_karmand" value="name:idk;datatype:int" />
+</info>

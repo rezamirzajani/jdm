@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_noe_darkhast" value="name:idn;datatype:int,name:onvan;datatype:string" />
+	<infoitem key="UD_check_use" value="name:idp;datatype:int,name:ip;datatype:string,name:company;datatype:string,name:idv;datatype:int,name:idkarmand;datatype:int,name:idip;datatype:int,name:idk;datatype:int,name:jens;datatype:int,name:name;datatype:string,name:famili;datatype:string,name:codemeli;datatype:string,name:pass;datatype:string,name:companyid;datatype:blob,name:mac;datatype:string,name:vasile_sabt;datatype:blob,name:semat;datatype:int,name:bl;datatype:int,name:comment;datatype:blob" />
+	<infoitem key="UD_end_darkhast" value="name:id;datatype:int" />
+	<infoitem key="UD_karman_jaygozin" value="name:idk;datatype:int,name:jens;datatype:int,name:name;datatype:string,name:famili;datatype:string,name:codemeli;datatype:string,name:pass;datatype:string,name:companyid;datatype:blob,name:mac;datatype:string,name:vasile_sabt;datatype:blob,name:semat;datatype:int,name:bl;datatype:int,name:comment;datatype:blob" />
+</info>

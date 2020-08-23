@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_up" value="name:id;datatype:int,name:user;datatype:int,name:tarikh_sabt;datatype:string,name:zaman_sabt;datatype:string,name:tarikhe_yaddasht;datatype:string,name:yaddasht;datatype:blob,name:bl;datatype:int" />
+</info>

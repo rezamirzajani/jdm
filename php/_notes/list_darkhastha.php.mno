@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_darkhast" value="name:id;datatype:int,name:idk;datatype:int,name:noe_darkhast;datatype:int,name:tarikh_sabt;datatype:string,name:zaman_sabt;datatype:string,name:tarikh_darkhast;datatype:string,name:zaman_darkhast;datatype:string,name:modat;datatype:string,name:tozihat;datatype:blob,name:taeed;datatype:int,name:engheza;datatype:string,name:goshi;datatype:blob" />
+	<infoitem key="UD_list_darkhastha" value="name:id;datatype:int,name:idk;datatype:int,name:noe_darkhast;datatype:int,name:tarikh_sabt;datatype:string,name:zaman_sabt;datatype:string,name:tarikh_darkhast;datatype:string,name:zaman_darkhast;datatype:string,name:modat;datatype:string,name:tozihat;datatype:blob,name:taeed;datatype:int,name:engheza;datatype:string,name:goshi;datatype:blob" />
+	<infoitem key="UD_select_karmand" value="name:idk;datatype:int" />
+</info>

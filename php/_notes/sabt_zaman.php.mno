@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_check_use" value="name:idk;datatype:int" />
+	<infoitem key="UD_check_saat" value="name:idt;datatype:int,name:idk;datatype:int,name:tarikh;datatype:string,name:saat;datatype:string,name:noe;datatype:int,name:noe_taradod;datatype:int,name:id_darkhast;datatype:int" />
+	<infoitem key="UD_ip_check" value="name:ip;datatype:string" />
+	<infoitem key="UD_check_noe_taradod" value="name:idt;datatype:int,name:idk;datatype:int,name:tarikh;datatype:string,name:saat;datatype:string,name:noe;datatype:int,name:noe_taradod;datatype:int,name:id_darkhast;datatype:int" />
+</info>

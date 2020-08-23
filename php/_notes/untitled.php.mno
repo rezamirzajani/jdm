@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_saat" value="name:idt;datatype:int,name:idk;datatype:int,name:tarikh;datatype:string,name:saat;datatype:string,name:noe;datatype:int,name:noe_taradod;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:idk;datatype:int,name:noe_darkhast;datatype:int,name:tarikh_sabt;datatype:string,name:zaman_sabt;datatype:string,name:tarikh_darkhast;datatype:string,name:zaman_darkhast;datatype:string,name:modat;datatype:string,name:tozihat;datatype:blob,name:taeed;datatype:int,name:engheza;datatype:string,name:goshi;datatype:blob" />
+</info>

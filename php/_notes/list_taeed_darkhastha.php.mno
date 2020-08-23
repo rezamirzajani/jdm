@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_darkhastha" value="name:id;datatype:int,name:idk;datatype:int,name:noe_darkhast;datatype:int,name:tarikh_sabt;datatype:string,name:zaman_sabt;datatype:string,name:tarikh_darkhast;datatype:string,name:zaman_darkhast;datatype:string,name:modat;datatype:string,name:tozihat;datatype:blob,name:taeed;datatype:int,name:engheza;datatype:string,name:goshi;datatype:blob,name:idn;datatype:int,name:onvan;datatype:string,name:idk;datatype:int,name:jens;datatype:int,name:name;datatype:string,name:famili;datatype:string,name:codemeli;datatype:string,name:pass;datatype:string,name:companyid;datatype:blob,name:mac;datatype:string,name:vasile_sabt;datatype:blob,name:semat;datatype:int,name:bl;datatype:int,name:comment;datatype:blob" />
+	<infoitem key="UD_karbar" value="name:idk;datatype:int,name:jens;datatype:int,name:name;datatype:string,name:famili;datatype:string,name:codemeli;datatype:string,name:pass;datatype:string,name:companyid;datatype:blob,name:mac;datatype:string,name:vasile_sabt;datatype:blob,name:semat;datatype:int,name:bl;datatype:int,name:comment;datatype:blob" />
+</info>
